@@ -29,7 +29,7 @@
 .logo{
   height: 100%;
   width: 100%;
-  background-image: url("./Amazon_logo1.png");
+  background-image: url("./images/Amazon_logo1.png");
   background-size: cover;
 }
 /* Address bar */
@@ -263,7 +263,7 @@
 /* Section Start */
 /* Hero Section */
 .hero-section{
-  background-image: url(./Slide1.jpg);
+  background-image: url(./Images/Slide1.jpg);
   background-size: cover;
   height: 350px;
   width: 100%;
