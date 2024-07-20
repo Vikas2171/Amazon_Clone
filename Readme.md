@@ -32,6 +32,7 @@ In future updates, I plan to add the following features:
 
 ## Screenshots
 
+![CLone](https://github.com/user-attachments/assets/8835002c-3550-4fea-9454-fe532a726faa)
 
 ## Acknowledgements
 - This project was inspired by the original Amazon website.
